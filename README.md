@@ -1,6 +1,8 @@
 # Electronic-Dumbwaiter-Lift-EDL-
 FPGA, VHDL, Simple state diagram University Project. 
 
+# Question
+
 The following description is about the Electonic Dumbwaiter Lift (EDL) used to transport foods and beverages between floors from/to the hotel's default location (kitchen). Your task is to analyse the following specifications and design the EDL controller using digital electronic components and logic gates. Figure Q1 depicts the typical view of the EDL controller.
 
 ![01](https://github.com/sachintha94/Electronic-Dumbwaiter-Lift-EDL-/assets/61775336/f3384f3b-83ab-4c17-a7ab-fbd30f4033a3)
