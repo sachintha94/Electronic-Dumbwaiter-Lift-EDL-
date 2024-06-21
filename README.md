@@ -19,3 +19,7 @@ Specifications of the EDL Controller
 # State Diagram
 
 ![Blank diagram](https://github.com/sachintha94/Electronic-Dumbwaiter-Lift-EDL-/assets/61775336/29fb9e33-e880-462d-aaed-86787bb769a9)
+
+# Simulation 
+
+![Screenshot (940)](https://github.com/sachintha94/Electronic-Dumbwaiter-Lift-EDL-/assets/61775336/0b93f3fb-d736-49df-8443-d379586a3d8c)
