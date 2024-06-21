@@ -1,0 +1,28 @@
+Command line:
+   ELD_TEST_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  65035
+
+Wed Dec 21 12:03:51 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5154.48 Meg
+
+ Total Signals          : 11
+ Total Nets             : 12
+ Total Signal Drivers   : 3
+ Total Blocks           : 3
+ Total Primitive Blocks : 3
+ Total Processes        : 2
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 495
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5154.48 Meg
+
+Wed Dec 21 12:04:02 2022
+

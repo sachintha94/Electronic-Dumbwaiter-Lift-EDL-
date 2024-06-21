@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Sachintha/Desktop/OUSL/2022/EEX5351 Digital Electronic Sys/LAB/Lab 02/Code/AllEDL/ELD_TEST_isim_beh.exe" -prj "C:/Users/Sachintha/Desktop/OUSL/2022/EEX5351 Digital Electronic Sys/LAB/Lab 02/Code/AllEDL/ELD_TEST_beh.prj" "work.ELD_TEST" 

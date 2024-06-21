@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed Dec 21 11:19:33 2022
+# Process ID: 5236
+# Log file: C:/Users/Sachintha/Desktop/OUSL/2022/EEX5351 Digital Electronic Sys/LAB/Lab 02/Code/AllEDL/planAhead_run_1/planAhead.log
+# Journal file: C:/Users/Sachintha/Desktop/OUSL/2022/EEX5351 Digital Electronic Sys/LAB/Lab 02/Code/AllEDL/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/Sachintha/Desktop/OUSL/2022/EEX5351 Digital Electronic Sys/LAB/Lab 02/Code/AllEDL/pa.fromNetlist.tcl}

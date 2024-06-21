@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Sachintha/Desktop/OUSL/2022/EEX5351 Digital Electronic Sys/LAB/Lab 02/Code/AllEDL/ELD_TEST.xst" -ofn "C:/Users/Sachintha/Desktop/OUSL/2022/EEX5351 Digital Electronic Sys/LAB/Lab 02/Code/AllEDL/ELD_TEST.syr" 
